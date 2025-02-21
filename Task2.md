@@ -6,4 +6,5 @@
 
 ![Screenshot (128)](https://github.com/user-attachments/assets/f98424a4-c527-42a6-83a3-9d1ac0a06642)
 
-![Task1 md](https://github.com/user-attachments/assets/ca7c2bb6-cf32-48ea-95a1-34a2ed57d719)
+![Task2 md](https://github.com/user-attachments/assets/aa82906b-e2fd-4a41-8a5e-46b3e7692e92)
+
